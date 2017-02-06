@@ -1,5 +1,5 @@
 #include <iostream>
-// I.S Program membaut variable
+// I.S Program membuat variable
 // F.S Menampilkan hasil tambah variable a dan b
 
 using namespace std;
