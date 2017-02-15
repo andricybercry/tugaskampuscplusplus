@@ -11,7 +11,7 @@ int main() {
 
     menu :
     cout << "Kalkulator Sederhana C++ \n";
-    cout << "XRY-CS.id\n\n";
+    cout << "UTS ANDRE CYBER\n\n";
     cout << "Pilihan Menu : \n";
     cout << "1.Penjumlahan (+)\n";
     cout << "2.Pengurangan (-)\n";
