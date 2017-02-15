@@ -21,7 +21,7 @@ int main() { // Fungsi bawaan Main Jalankan Otomatis
     cout << "2.Pengurangan (-)\n";
     cout << "3.Perkalian (*)\n";
     cout << "4.Pembagian (/)\n\n"; 
-    cout << "5.Perhitungan nilai UTS Mahasiswa (/)\n\n";
+    cout << "5.Perhitungan nilai UTS Mahasiswa \n\n";
     cout << "Silahkan masukkan kode menu : ";cin >> kode;
     if(kode != 0){ // perbandingan jika nilai kode tidak sama dengan 0 maka false akan tampil "kode belum di isi"
         if (kode > 5 || kode < 1){ // pengecekan kode jika melebihi batas 5 maka tidak ada 
