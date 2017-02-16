@@ -33,8 +33,8 @@ int main() { // Fungsi bawaan Main Jalankan Otomatis
         else {
             if(kode == 5){ // fungsi perbandingan jika nilai kode sama dengan 5 maka true
 
-                cout << "Masukkan Masukan Nilai Mahasiswa : ";cin >> a; // fungsi input variable a
-                cout << "Masukkan Masukan Batas Nilai UTS : ";cin >> b; // fungsi input variable b
+                cout << "Silahkan Masukan Nilai Mahasiswa : ";cin >> a; // fungsi input variable a
+                cout << "Silahkan Masukan Batas Nilai UTS : ";cin >> b; // fungsi input variable b
                 if(a >= b){ // perbandingan jika a lebih dari b kama TRUE
                      cout << "\nHasil penjumlahan UTS Mahasiswa "<<a<<" dengan Batas Nilai UTS adalah "<<b<<" maka anda : LULUS"<<endl;
                 }else if(a <= b){
